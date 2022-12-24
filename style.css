@@ -1,0 +1,13 @@
+body {
+    background-color: powderblue;
+    
+}
+#profilePicture {
+    width: 150px;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+}

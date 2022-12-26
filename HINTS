@@ -1,0 +1,27 @@
+Block elements
+<p>
+H1-h6
+div
+ol, ul, li
+form
+
+
+INLINE elements
+span
+img
+a
+
+
+POSITION
+static - default
+relative - move top/bottom/left/right position in pixels. ( left 10px pushes element 10 px from starting position) ALSOO ( cant put other element on its starting position)
+absolute - distance in pixels from parent sides( left 10px is 10 px from parent start ( CAN PUT other element on starting position)
+fixed
+
+
+
+visibility: hidde; (hidden but keeps position)
+display:none; (removes the element)
+
+
+Cant change width on SPAN ( or any inline elements, must be inline-block)

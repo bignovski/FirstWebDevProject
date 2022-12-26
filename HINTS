@@ -25,3 +25,7 @@ display:none; (removes the element)
 
 
 Cant change width on SPAN ( or any inline elements, must be inline-block)
+
+
+
+text-align on parent ( aligns items in that parent) ( doesnt work if width is set) (must change with margin instead)
